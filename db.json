@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Think and grow poor",
+      "author": "Someone",
+      "id": "2"
+    },
+    {
+      "id": "63ed",
+      "title": "Hello",
+      "author": "ERww"
+    },
+    {
+      "id": "6ss3ed",
+      "title": "Hellos",
+      "author": "ERww"
+    },
+    {
+      "id": "af6c",
+      "title": "think ",
+      "author": "one"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
